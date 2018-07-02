@@ -1,0 +1,30 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+#my_presentation {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#my_aim {
+    font-family: Georgia, serif;
+}
+
+.withshadows {
+    text-shadow: 3px 2px red;
+}
+
+ol li {
+    color: blue;
+}
