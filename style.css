@@ -19,10 +19,12 @@ th {
 
 #my_aim {
     font-family: Georgia, serif;
+    font-size: 50%;
 }
 
 .withshadows {
     text-shadow: 3px 2px red;
+    font-size: 75%;
 }
 
 ol li {
