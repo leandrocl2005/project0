@@ -1,12 +1,12 @@
 @media (min-width: 500px) {
     body: {
-        background-color: red;
+        background-color: #b5c7e5;
     }
 }
 
 @media (max-width: 499px) {
     body : {
-        background-color:blue;
+        background-color: #d3cfb1;
 }
 
 table {
