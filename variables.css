@@ -6,4 +6,11 @@ ol {
   font-size: 18px;
   color: red; }
 
+.science {
+  font-size: 10px; }
+  .science p {
+    color: red; }
+  .science h3 {
+    color: blue; }
+
 /*# sourceMappingURL=variables.css.map */
